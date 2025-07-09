@@ -30,7 +30,7 @@ Welcome to the source code repository for my personal developer portfolio. This 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/xtfaisal07/portfolio.git
 cd portfolio
 npm install
 npm run dev
